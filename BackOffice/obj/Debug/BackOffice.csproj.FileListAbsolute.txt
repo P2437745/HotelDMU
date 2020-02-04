@@ -1,0 +1,51 @@
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\bin\Debug\BackOffice.exe.config
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\bin\Debug\BackOffice.exe
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\bin\Debug\BackOffice.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\bin\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\bin\Debug\Class Library.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.csproj.CopyComplete
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.exe
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.frmLogin.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.frmMenu.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.mdiBackEnd.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.frmChangePassword.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\BackOffice\obj\Debug\BackOffice.frmAddUser.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\bin\Debug\BackOffice.exe.config
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\bin\Debug\BackOffice.exe
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\bin\Debug\BackOffice.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\bin\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\bin\Debug\Class Library.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.frmAddUser.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.frmChangePassword.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.mdiBackEnd.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.frmMenu.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.frmSignIn.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.CopyComplete
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.exe
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Security\BackOffice\obj\Debug\BackOffice.pdb
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\bin\Debug\BackOffice.exe.config
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\bin\Debug\BackOffice.exe
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\bin\Debug\BackOffice.pdb
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\bin\Debug\Class Library.dll
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\bin\Debug\Class Library.pdb
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.csprojAssemblyReference.cache
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.frmAddUser.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.frmChangePassword.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.mdiBackEnd.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.frmMenu.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.frmSignIn.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.csproj.CopyComplete
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.exe
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\BackOffice\obj\Debug\BackOffice.pdb
