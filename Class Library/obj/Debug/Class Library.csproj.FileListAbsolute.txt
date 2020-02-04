@@ -1,0 +1,18 @@
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\bin\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\bin\Debug\Class Library.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\obj\Debug\Class Library.csprojAssemblyReference.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\obj\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\AddressBook\2017\Address Book Secure\Class Library\obj\Debug\Class Library.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\bin\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\bin\Debug\Class Library.pdb
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\obj\Debug\Class Library.csprojAssemblyReference.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\obj\Debug\Class Library.dll
+D:\Media\Desktops\MatthewWork\public_html\notes\modules\Shared Content\SampleProjects\Security\Address Book Secure\Address Book Secure\Class Library\obj\Debug\Class Library.pdb
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\bin\Debug\Class Library.dll
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\bin\Debug\Class Library.pdb
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\obj\Debug\Class Library.csprojAssemblyReference.cache
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\obj\Debug\Class Library.dll
+D:\Year 2 University\Project Management and Development\Latest Prototype\Security\Security\Class Library\obj\Debug\Class Library.pdb
